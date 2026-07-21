@@ -32,7 +32,7 @@ The project was developed as the **Master's Capstone Project** for the **Master 
 ## 🖥️ Streamlit Dashboard
 
 <p align="center">
-<img src="images/2_dashboard.png" width="900">
+<img src="images/2_Dashboard.png" width="900">
 </p>
 
 ---
